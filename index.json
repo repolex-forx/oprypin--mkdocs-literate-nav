@@ -1,0 +1,11 @@
+{
+  "org": "oprypin",
+  "repo": "mkdocs-literate-nav",
+  "versions": [
+    {
+      "commit": "b15147038b68f56bf7894549062d6bb4985223a1",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:12:36.275324+00:00"
+    }
+  ]
+}
