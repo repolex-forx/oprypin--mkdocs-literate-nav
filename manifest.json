@@ -192,6 +192,31 @@
       ],
       "ast": [
         "aggregate/ast/b91268c263f61e38a7e27f77ccf38ec287e0c0b5/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b91268c263f61e38a7e27f77ccf38ec287e0c0b5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "mkdocs",
+          "ecosystem": "PYPI",
+          "version": "1.4.1",
+          "githubOrg": "mkdocs",
+          "githubRepo": "mkdocs",
+          "githubCommit": "aa9eabea1a474ddaf817bbdca8bada7cec61aa11",
+          "githubTag": "1.4.1",
+          "githubUrl": "https://github.com/mkdocs/mkdocs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "properdocs",
+          "ecosystem": "PYPI",
+          "version": "1.6.5",
+          "githubOrg": "properdocs",
+          "githubRepo": "properdocs",
+          "githubCommit": "01fe59b2a43df0fed8282f74520b0f32fb0fd043",
+          "githubTag": "v1.6.5",
+          "githubUrl": "https://github.com/properdocs/properdocs",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
