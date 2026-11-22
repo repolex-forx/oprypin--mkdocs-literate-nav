@@ -3,6 +3,11 @@
   "repo": "mkdocs-literate-nav",
   "versions": [
     {
+      "commit": "b91268c263f61e38a7e27f77ccf38ec287e0c0b5",
+      "tag": "v0.6.3",
+      "parsed_at": "2026-11-22T00:30:53.207067+00:00"
+    },
+    {
       "commit": "b15147038b68f56bf7894549062d6bb4985223a1",
       "tag": "",
       "parsed_at": "2026-11-06T02:12:36.275324+00:00"
